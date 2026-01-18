@@ -67,14 +67,34 @@ flutter:
     - assets/images/pineapple.jpg
     - assets/images/watermelon.jpg
     - assets/images/eggplane.jpg
+    - assets/images/u.jpg
     - assets/images/chilly.jpg
     - assets/images/banan.jpg
+    - assets/images/papaya.jpg
+    - assets/images/tr sork.jpg
+    - assets/images/hana.jpg
+    - assets/images/vegetable.png
+    - assets/images/garlic.jpg
+    - assets/images/onion.jpg
+    - assets/images/b.jpg
+    - assets/images/son.jpg
+    - assets/images/l.jpg
+    - assets/images/y.jpg
+    - assets/images/s.jpg
+    - assets/images/k.jpg
+    - assets/images/nornong.jpg
+    - assets/images/p.jpg
+    - assets/images/pb.jpg
+    - assets/images/kk.jpg
+    - assets/images/sp.jpg
+    - assets/images/trav.jpg
+    - assets/images/knhey.jpg
+    - assets/images/slik.jpg
+    - assets/images/ji.jpg
+    - assets/images/lpav.jpg
+    - assets/images/ca.jpg
+    - assets/images/maras.jpg
   
-
-    
-   
-
-
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images
 
